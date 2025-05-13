@@ -9,7 +9,8 @@ With over 10 years in development and digitalization, I've dedicated my career t
 I actively contribute to Open Source projects, focusing on PHP and Symfony. I’m passionate about creating reusable, scalable solutions and engaging with the community. Some of my key contributions include:
 
 - **[Storyblok Bundle](https://github.com/storyblok/symfony-bundle)** 📦: Building and maintaining a Symfony Bundle for interacting with the Storyblok API.
-- **[Storyblok API lib](https://github.com/storyblok/php-management-api-client)** 🔌: Building and maintaining a PHP library for interacting with the Storyblok API.
+- **[Storyblok API lib](https://github.com/storyblok/php-content-api-client)** 🔌: Building and maintaining a PHP library for interacting with the Storyblok API.
+- **[thecodingmachine/safe](https://github.com/thecodingmachine/safe)** All PHP functions, rewritten to throw exceptions instead of returning false
 - **Symfony Plugins and Bundles** 📂: Developing and maintaining various Symfony bundles to improve the developer experience and extend the framework’s capabilities.
 - **Community Engagement** 🤝: Regularly participating in code reviews, discussions, and contributing to the evolution of the PHP and Symfony communities.
 
